@@ -5,8 +5,6 @@
     <img src="https://img.shields.io/github/watchers/mono300genuine/mono300genuine?style=social" />
 </p>
 
-<h4 align="left">A passionate Senior Full Stack Engineer working at GiticDAO
-
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=mono300genuine&theme=onedark" alt="mono300genuine" />
