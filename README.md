@@ -1,4 +1,3 @@
-Hello, Everyone 👋
 
 <p align='center'>
   <img src='https://github-widgetbox.vercel.app/api/profile?username=mono300genuine&theme=darkmode&data=followers,repositories,stars,commits' />
@@ -12,25 +11,23 @@ Hello, Everyone 👋
 
 
 ## &#x1f4c8; My GitHub Stats
+<p align="center">
+  <a href="https://github.com/mono300genuine">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono300genuine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 
-<a href="https://github.com/mono300genuine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono300genuine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/mono300genuine">
+  <a href="https://github.com/mono300genuine">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mono300genuine&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mono300genuine's GitHub Stats" />
-</a>
+  </a>
 
+  <a href="https://github.com/mono300genuine">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mono300genuine&theme=dark&card_width=770" alt="Rapter1990's GitHub Stats" />
+  </a>
+</p>
 
-<a href="https://github.com/mono300genuine">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mono300genuine&theme=dark&card_width=770" alt="Rapter1990's GitHub Stats" />
-</a>
-
-<p align="left"> 
+<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=rapter1990" alt="mono300genuine" /> 
     <img src="https://img.shields.io/github/followers/mono300genuine?style=social" />
     <img src="https://img.shields.io/github/stars/mono300genuine?style=social" />
     <img src="https://img.shields.io/github/watchers/mono300genuine/mono300genuine?style=social" />
 </p>
-
-Thank you for reading my profile.
