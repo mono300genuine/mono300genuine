@@ -1,10 +1,7 @@
 Hello, Everyone 👋
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=rapter1990" alt="mono300genuine" /> 
-    <img src="https://img.shields.io/github/followers/mono300genuine?style=social" />
-    <img src="https://img.shields.io/github/stars/mono300genuine?style=social" />
-    <img src="https://img.shields.io/github/watchers/mono300genuine/mono300genuine?style=social" />
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=spectrecoder&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 <p align="left"> 
@@ -28,5 +25,12 @@ Hello, Everyone 👋
 <a href="https://github.com/mono300genuine">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mono300genuine&theme=dark&card_width=770" alt="Rapter1990's GitHub Stats" />
 </a>
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=rapter1990" alt="mono300genuine" /> 
+    <img src="https://img.shields.io/github/followers/mono300genuine?style=social" />
+    <img src="https://img.shields.io/github/stars/mono300genuine?style=social" />
+    <img src="https://img.shields.io/github/watchers/mono300genuine/mono300genuine?style=social" />
+</p>
 
 Thank you for reading my profile.
