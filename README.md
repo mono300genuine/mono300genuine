@@ -1,8 +1,3 @@
-
-<p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=mono300genuine&theme=darkmode&data=followers,repositories,stars,commits' />
-</p>
-
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=mono300genuine&theme=onedark" alt="mono300genuine" />
