@@ -4,22 +4,6 @@
     </a>
 </p>
 
-
-## &#x1f4c8; My GitHub Stats
-<p align="center">
-  <a href="https://github.com/mono300genuine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mono300genuine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
-
-  <a href="https://github.com/mono300genuine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mono300genuine&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mono300genuine's GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/mono300genuine">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mono300genuine&theme=dark&card_width=770" alt="Rapter1990's GitHub Stats" />
-  </a>
-</p>
-
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=rapter1990" alt="mono300genuine" /> 
     <img src="https://img.shields.io/github/followers/mono300genuine?style=social" />
